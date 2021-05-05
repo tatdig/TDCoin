@@ -1,10 +1,10 @@
-# TDCoin, altcoin
-"Тәңкә" Digital Currency, TATDig Coin, Tatar Digital Coin
+# TDCoin, altcoin, cryptocurrency
+TDCoin Digital Currency, TDCoin blockchain project, Crypto currency
 
-TDC - TATDig Coin, Tatar Digital Coin, "Тәңкә" Digital Currency
+TDC - Digital Coin, Digital Currency, Crypto currency
 tdcoin - program name.
 2 000 000 000 coins.
-500 000 000 premined for service and educational purpose.
+500 000 000 premined to ensure development of TDCoin project.
 Start planned on 1 may 2019.
 
 -------------------------------------------------------------------------------------------------------
